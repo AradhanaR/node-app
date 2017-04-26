@@ -3,6 +3,11 @@
     "name": "db",
     "connector": "memory"
   },
+  "mydb": {
+    "name": "mydb",
+    "connector": "postgresql",
+    "url": "postgres://czjwapqkzcnhpk:5de9e106b5dab5b4834bba9175c851cbf86c2dcd0cd928f2d7730a09182cf906@ec2-54-243-107-66.compute-1.amazonaws.com:5432/dalg4lek1d0u3n"
+  },
   "appdb": {
     "host": "localhost",
     "port": 27017,

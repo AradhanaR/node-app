@@ -36,7 +36,7 @@
     "public": false
   },
   "product": {
-    "dataSource": "appdb",
+    "dataSource": "mydb",
     "public": true
   }
 }
